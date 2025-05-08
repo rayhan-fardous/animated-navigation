@@ -37,7 +37,7 @@ No additional dependencies required. The project uses only HTML, CSS, and vanill
 
 ## 🖼️ Preview
 
-![Demo GIF](https://github.com/rayhan-fardous/animated-navigation/blob/main/preview.gif?raw=true)
+![Animated Navigation](https://rayhan-fardous.github.io/animated-navigation/)
 
 ---
 
